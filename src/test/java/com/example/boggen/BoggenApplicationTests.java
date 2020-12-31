@@ -1,10 +1,10 @@
-package com.example.prueba1;
+package com.example.boggen;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Prueba1ApplicationTests {
+class BoggenApplicationTests {
 
 	@Test
 	void contextLoads() {

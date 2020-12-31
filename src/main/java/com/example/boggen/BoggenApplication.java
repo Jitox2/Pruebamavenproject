@@ -1,13 +1,13 @@
-package com.example.prueba1;
+package com.example.boggen;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Prueba1Application {
+public class BoggenApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Prueba1Application.class, args);
+		SpringApplication.run(BoggenApplication.class, args);
 	}
 
 }
