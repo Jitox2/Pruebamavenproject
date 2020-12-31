@@ -8,7 +8,7 @@ public class BoggenApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BoggenApplication.class, args);
-		System.out.print("Algo Cool!!!");
-	}
+		System.out.print("asd");
+}
 
 }
